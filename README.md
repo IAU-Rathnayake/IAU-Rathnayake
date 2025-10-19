@@ -1,5 +1,4 @@
 <h1>Hi, I'm Imesh👋<br/>
-<a href="https://github.com/IAU_Rathnayake">Computer Networks Undergraduate</a> • 
 <a href="https://www.linkedin.com/in/imesh-rathnayake/">Cloud & Cybersecurity Enthusiast</a> • 
 <a href="mailto:imeshachiraudhayanga@gmail.com">Open to Opportunities</a>
 </h1>
