@@ -10,9 +10,6 @@ I build reproducible labs and automation scripts, ensuring clear documentation s
 ---
 
 
-
----
-
 ## 🚀 Featured Projects
 
   -  **🤖 AI & Machine Learning Projects**  
