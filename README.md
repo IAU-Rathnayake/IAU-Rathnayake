@@ -20,6 +20,11 @@ I build reproducible labs and automation scripts, ensuring clear documentation s
 model training, and performance evaluation.  
   🔗 [github.com/IAU-Rathnayake/AI-and-Machine-learning](https://github.com/IAU-Rathnayake/AI-and-Machine-learning)
 
+ - **💻 Python End-To-End Projects**  
+ Diverse Python projects build skills, solve problems, and provide real-world experience,
+enhancing Python's practical understanding.  
+🔗 [github.com/IAU-Rathnayake/Python-Projects](https://github.com/IAU-Rathnayake/Python-Projects)  
+
 - **🛰️ Networking Labs (Cisco / Packet Tracer)**  
   End-to-end networking setups (Static, OSPF, BGP, VLANs) with troubleshooting evidence and topology diagrams.  
   🔗 [github.com/IAU_Rathnayake/networking-labs](https://github.com/IAU_Rathnayake/networking-labs)
