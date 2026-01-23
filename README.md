@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-I am a Computer Science undergraduate bridging the gap between <b>Artificial Intelligence</b> and <b>System Operations</b>. My goal is not just to build models, but to understand the infrastructure, networking, and automation required to deploy robust software solutions. I build reproducible labs and automation scripts, ensuring clear documentation so recruiters can easily evaluate my work.
+As a final-year undergraduate, I focus on the intersection of intelligent software and operational excellence. My goal is not just to build models, but to understand the infrastructure, networking, and automation required to deploy robust software solutions. I am committed to building reproducible labs and automation scripts, ensuring clear documentation that adheres to industry standards for scalability and maintainability.
 </p>
 
 ---
