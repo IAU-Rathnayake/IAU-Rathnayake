@@ -56,12 +56,6 @@ As a final-year undergraduate, I focus on <b>MLOps</b> and <b>DevOps</b>—build
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IAU-Rathnayake&show_icons=true&theme=minimal" alt="Imesh's Github Stats" />
-</p>
-
----
-
 <h2 align="center">🤳 Connect with me</h2>
 
 <p align="center">
