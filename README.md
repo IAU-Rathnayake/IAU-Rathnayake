@@ -1,4 +1,4 @@
-# 🚀 DevOps Engineer | Cloud Infrastructure & Automation Specialist
+# 🚀 DevOps Practitioner | Cloud Infrastructure & Automation 
 
 <p align="center">
   <a href="https://linkedin.com/in/imesh-rathnayake">
@@ -20,7 +20,7 @@
 
 My background in **Computer Networks** provides a unique perspective for optimizing data flow, securing distributed systems, and designing low-latency architectures. I thrive in environments where reliability, automation, and performance are paramount.
 
-**Currently seeking:** DevOps/Cloud Engineering opportunities where I can contribute to challenging infrastructure problems and grow within a collaborative team.
+**Currently seeking:** DevOps Engineering Internship opportunities where I can contribute to challenging infrastructure problems and grow within a collaborative team.
 
 ---
 
